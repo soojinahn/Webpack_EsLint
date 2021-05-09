@@ -1,5 +1,5 @@
 Screenshot of successful compile:
-![image](screenshot.png)
+![alt text](screenshot.PNG)
 
 This is based on this tutorial:
 
