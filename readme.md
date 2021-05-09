@@ -1,3 +1,6 @@
+Screenshot of successful compile:
+![screenshot.png](screenshot.png)
+
 This is based on this tutorial:
 
 Babel: https://www.robinwieruch.de/webpack-eslint/
