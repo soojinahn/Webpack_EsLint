@@ -1,5 +1,5 @@
 Screenshot of successful compile:
-![screenshot.png](screenshot.png)
+![image](screenshot.png)
 
 This is based on this tutorial:
 
